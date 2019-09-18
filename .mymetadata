@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PlatformManage"
+  id="myeclipse.1529592397009"
+  context-root="/PlatformManage"
+  j2ee-spec="5.0"
+  archive="PlatformManage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

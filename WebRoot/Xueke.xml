@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <fenlei>
+ <menlei name="110数学">
+ 	<dalei name="110.14数理逻辑和数学基础">
+ 		<xiaolei name="110.1410演绎逻辑学"/>
+ 		<xiaolei name="110.1420证明论"/>
+ 		<xiaolei name="110.1430递归论"/>
+ 		<xiaolei name="110.1440模型论"/>
+ 	</dalei>
+ 	<dalei name="110.17数论">
+ 		<xiaolei name="110.1710初等数论"/>
+ 		<xiaolei name="110.1720解析数论"/>
+ 		<xiaolei name="110.1730代数数论"/>
+ 		<xiaolei name="110.1799数论其他学科"/>
+ 	</dalei>
+ 	<dalei name="110.21代数学">
+ 		<xiaolei name="110.2110线性代数"/>
+ 		<xiaolei name="110.2115群论"/>
+ 		<xiaolei name="110.2120域论"/>
+ 		<xiaolei name="110.2199代数学其他"/>
+ 	</dalei>	
+ </menlei>
+ <menlei name="120信息科学与系统科学">
+  	<dalei name="120.10信息科学与系统科学基础学科">
+ 		<xiaolei name="120。1010信息论"/>
+ 		<xiaolei name="120。1020控制论"/>
+ 		<xiaolei name="120。1030系统论"/>
+ 	</dalei>
+ 	<dalei name="120.20系统学">
+ 		<xiaolei name="120.2010混沌"/>
+ 		<xiaolei name="120.2020一般系统论"/>
+ 		<xiaolei name="120.2030耗散结构理论"/>
+ 	</dalei>
+  	<dalei name="120.30控制理论">
+ 		<xiaolei name="120.3010大系统理论"/>
+ 		<xiaolei name="120.3020系统辨识"/>
+ 		<xiaolei name="120.3030状态鼓励"/>
+ 	</dalei>
+ </menlei>
+ <menlei name="130力学">
+   	<dalei name="130.10基础力学">
+ 		<xiaolei name="130.1010理论力学"/>
+ 		<xiaolei name="130.1020理性力学"/>
+ 		<xiaolei name="130.1030非理性力学"/>
+ 	</dalei>
+	<dalei name="130.15固体力学">
+ 		<xiaolei name="130.1510弹性力学"/>
+ 		<xiaolei name="130.1515塑性力学"/>
+ 		<xiaolei name="130.1520沾塑性力学"/>
+ 	</dalei>
+ 	<dalei name="130.20振动与波">
+ 		<xiaolei name="130.2010线性振动力学"/>
+ 		<xiaolei name="130.2020非线性振动力学"/>
+ 		<xiaolei name="130.2030弹性体振动力学"/>
+ 	</dalei>
+ </menlei>
+ </fenlei>

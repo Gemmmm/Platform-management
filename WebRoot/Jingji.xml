@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <fenlei>
+ <menlei name="A农、林、牧、渔业">
+ 	<dalei name="01农业">
+ 		<xiaolei name="0111稻谷种植"/>
+ 		<xiaolei name="0112	小麦种植"/>
+ 		<xiaolei name="0113玉米种植"/>
+ 		<xiaolei name="0119其他谷物种植"/>
+ 	</dalei>
+ 	<dalei name="02林业">
+ 		<xiaolei name="0211林木育种"/>
+ 		<xiaolei name="0212林木育苗"/>
+ 		<xiaolei name="0220造林和更新"/>
+ 		<xiaolei name="0231森林经营和管护"/>
+ 	</dalei>
+ 	<dalei name="03畜牧业">
+ 		<xiaolei name="0311牛的饲养"/>
+ 		<xiaolei name="0312马的饲养"/>
+ 		<xiaolei name="0313猪的饲养"/>
+ 		<xiaolei name="0319其他牲畜饲养"/>
+ 	</dalei>	
+ </menlei>
+ <menlei name="B采矿业">
+  	<dalei name="06煤炭开采和洗选业">
+ 		<xiaolei name="0610烟煤和无烟煤开采洗选"/>
+ 		<xiaolei name="0620褐煤开采洗选"/>
+ 		<xiaolei name="0690其他煤炭采选"/>
+ 	</dalei>
+ 	<dalei name="07石油和天然气开采业">
+ 		<xiaolei name="0711陆地石油开采"/>
+ 		<xiaolei name="0712海洋石油开采"/>
+ 		<xiaolei name="0722陆地天然气开采"/>
+ 	</dalei>
+  	<dalei name="08黑色金属矿采选业">
+ 		<xiaolei name="0810铁矿采选"/>
+ 		<xiaolei name="0820	锰矿、铬矿采选"/>
+ 		<xiaolei name="0890其他黑色金属矿采选"/>
+ 	</dalei>
+ </menlei>
+ <menlei name="C制造业">
+   	<dalei name="13农副食品加工业">
+ 		<xiaolei name="1311稻谷加工"/>
+ 		<xiaolei name="1312小麦加工"/>
+ 		<xiaolei name="1319其他谷物磨制"/>
+ 	</dalei>
+	<dalei name="14食品制造业">
+ 		<xiaolei name="1411糕点、面包制造"/>
+ 		<xiaolei name="1419饼干及其他焙烤食品制造"/>
+ 		<xiaolei name="1439其他方便食品制造"/>
+ 	</dalei>
+ 	<dalei name="15酒、饮料和精制茶制造业">
+ 		<xiaolei name="1511酒精制造"/>
+ 		<xiaolei name="1512白酒制造"/>
+ 		<xiaolei name="1519其他酒制造"/>
+ 	</dalei>
+ </menlei>
+ </fenlei>
